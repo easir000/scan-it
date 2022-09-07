@@ -12,7 +12,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository or doanload the project from github
 
-    git clone https://github.com/ProMahmudul/Inventory-Management-System-in-Laravel
+    git clone https://github.com/easir000/scan-it.git
 
 Copy that project in htdocs folder and open the folder location in cmd.
 
@@ -49,7 +49,7 @@ You can now access the server at http://localhost:8000
     
 ## Admin Login Credentials
 
-email: mahmudul89277@gmail.com 
+email: easir956@gmail.com
 
 password: 1234
 
