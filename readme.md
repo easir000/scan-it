@@ -1,14 +1,4 @@
 
-# ![Inventory Management System](logo.png)
-
-----------
-
-# Getting started
-
-## Installation
-
-Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.8/installation)
-
 
 Clone the repository or doanload the project from github
 
@@ -27,6 +17,7 @@ Now open cmd and run some commands...
 Install all the dependencies using composer
 
     composer install
+    composer install --ignore-platform-req=php  [exception ]
 
 Generate a new application key
 
